@@ -18,7 +18,7 @@ spec:
       name: rmq-where-for-dinner
   source:
     git:
-      url: 
+      url: https://github.com/Tembhum/where-for-dinner
       ref:
         branch: main
     subPath: where-for-dinner-availability
